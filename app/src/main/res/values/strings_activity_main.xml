@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_user">User name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Login</string>
+
+    <string name="error_invalid_password">Password is empty</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">User name is required</string>
+</resources>
